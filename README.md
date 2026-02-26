@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td><b>Refactor</b></td>
-      <td>"Refactor the following code to improve readability and reduce complexity: [Code Block]"</td>
+      <td>"Ultra high resolution portrait enhancement, restore blurry face to crystal clear sharp focus, realistic skin texture with natural pores and freckles, detailed eyes with sharp iris and catchlight, clean natural eyebrows, soft natural lips texture, remove blur and compression artifacts, restore fine hair strands detail, cinematic color grading, balanced exposure, natural skin tone, high dynamic range, professional DSLR quality, 85mm lens look, shallow depth of field, soft winter daylight, photorealistic, 8K resolution, ultra detailed, noise reduction, face refinement, realistic sharpness, no over-smoothing, no plastic skin, preserve original facial features and identity, professional color correction "</td>
     </tr>
     <tr>
       <td><b>Unit Tests</b></td>
