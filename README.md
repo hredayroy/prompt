@@ -40,3 +40,5 @@
     </tr>
   </table>
 </details>
+
+highly detailed, sharp focus, improved texture, clear photography, 8k resolution, realistic, highly polished --iw 2 --no blurry, noise, pixelated, grainy, distortion, ugly
